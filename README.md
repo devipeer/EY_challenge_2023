@@ -1,7 +1,5 @@
 # 2023 EY Open Science Data Challenge
 
-F1 Score: 0.83
-
 ### Problem definiton:  
 Binary classification model to predict rice crops in Vietnam.  
   
@@ -13,4 +11,5 @@ About project:
 - Created in Python(scikit-learn, xgboost, NumPy, Pandas, Plantery_computer)
 - Score certified by Ernst & Young
 
+F1 Score: 0.83 obtained by XGBoost technique
 ### To check the results go to Jupyter Notebook file(.ipynb)
